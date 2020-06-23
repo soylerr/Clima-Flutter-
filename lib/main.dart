@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData.dark(),
       home: LocationScreen(
-        cityName: "",
+        cityName: "Siirt",
       ),
     );
   }
